@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Let's connect!
 <p>
     <a href="https://t.me/xgothboi" target="blank"><img src="https://img.shields.io/badge/@xgothboi-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/Teguh" target="blank"><img src="https://img.shields.io/badge/@_.acxken-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/Teguh" target="blank"><img src="https://img.shields.io/badge/@acxken._-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
